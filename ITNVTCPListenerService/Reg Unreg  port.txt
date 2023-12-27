@@ -1,0 +1,5 @@
+netsh.exe http add urlacl url=https://+:44301/ user=Everyone
+netsh.exe http delete urlacl url=https://+:44301/
+
+netsh.exe http add urlacl url=http://+:18008/ user=Everyone
+netsh.exe http delete urlacl url=http://+:18008/

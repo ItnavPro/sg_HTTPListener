@@ -1,0 +1,8 @@
+Plug In Assembly List 
+PluginPopupBrowserTab
+
+PluginPopupBrowserTab
+Assembly File Name:  C:\SG\VSProjectsAWSGenesysPureCloud\HTTPListenerNew\ITNVTCPListenerService\bin\Debug\PluginPopupBrowserTab.dll
+BrowserExe: C:\Program Files\Google\Chrome\Application\chrome.exe
+URL: http://sergeygu/CrmTest1/CRMTest.htm?tz={tz}&account={account}&vdn={vdn}
+callerdnlength: 2

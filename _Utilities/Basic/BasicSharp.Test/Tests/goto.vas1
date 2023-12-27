@@ -1,0 +1,14 @@
+﻿Print("goto.bas start")
+GoTo abc
+assert 0
+
+def:
+assert 1
+Print("goto.bas stop")
+End
+
+abc:
+assert 1
+
+GoTo def
+assert 0

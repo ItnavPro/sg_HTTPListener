@@ -1,0 +1,47 @@
+Plug In Assembly List
+ITNVCRMPopup:
+	ITNVCRMPopup
+
+ITNVCRMPopup
+
+Assembly File Name:
+ITNVCRMPopupMimunYashir.dll
+
+Enabled:
+true/false
+
+ExplorerExe:
+iexplore.exe
+
+ExplorerOpenDelay:
+5
+
+PopupType:
+	1- new ie, 2 - new tab in ie; 3 - in the same tab
+
+ExplorerStyle:
+	style : 0-normal; 1-Hidden; 2-Minimized; 3-Maximized
+
+URLlogin: 
+	url for login screen 
+
+URL:
+ 	url from cce config?&IdNumber=<VALUE>&BSIND=1&IDNTIND=<Y>
+
+URLani:
+ 	url from cce config?&Phone=<VALUE>&BSIND=1&IDNTIND=<Y>
+
+URLlead:
+ 	url from cce config?&LeadId=<VALUE>&BSIND=1&IDNTIND=<Y>
+
+PopupEvent:
+	Alerting/Established
+
+CallerDNLength:
+	7
+
+Prefix:
+	03
+
+CalledDNforURL:
+	&MT_VDN=
